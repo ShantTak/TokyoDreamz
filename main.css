@@ -1,0 +1,38 @@
+
+body {
+  background-color: #ccffd3;
+  background-image: url(boston_back_bay.jpg);
+  background-position: top;
+  background-repeat: repeat;
+}
+p {
+  color: #808080;
+  padding: 25px 30px 25px 30px;
+  text-decoration: underline;
+  text-align: center;
+}
+h1 {
+  text-decoration: none;
+  color: darkblue;
+  font-family: 'Gloria Hallelujah', cursive;
+}
+h2 {
+  border-bottom: 1px solid #121212;
+  padding-bottom: 3px;
+  text-align: center;
+}
+.goals h2 {
+  text-align: left;
+}
+.goals ol {
+  text-align: center;
+}
+ol li {
+  color: darkgrey;
+  padding: 10px 20px 10px 20px;
+  font-family: 'Tillana', cursive;
+  display: inline;
+}
+a:visited {
+  color: green;
+}
